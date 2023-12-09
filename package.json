@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "is-odd": "^3.0.1",
+    "node-gyp": "^10.0.1"
+  }
+}
